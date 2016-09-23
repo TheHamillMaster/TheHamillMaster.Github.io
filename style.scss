@@ -18,9 +18,8 @@ html {
 }
 
 body {
-	background:  {
-    from {background-color: red;}
-    to {background-color: blue;}
+	background:  {$navy
+   
 }
 
 /* Standard syntax */
@@ -35,7 +34,7 @@ table {
 }
 
 table, th, td {
-    border: 1px solid black;
+    border: 1px solid #fff;
 }
 .container {
   margin: 0 auto;
