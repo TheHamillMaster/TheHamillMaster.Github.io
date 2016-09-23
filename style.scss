@@ -27,7 +27,7 @@ table {
 }
 
 table, th, td {
-    border: 1px solid black;
+    border: 1px solid white;
 }
 .container {
   margin: 0 auto;
@@ -133,7 +133,7 @@ img {
 }
 ::selection {
   color: $black;
-  background: $lightGray;
+  background: $White;
 }
 
 // Nicolas Gallagher's micro clearfix hack
