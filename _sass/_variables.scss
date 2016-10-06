@@ -9,13 +9,7 @@ $navy: #003366;
 $white: #ffffff
 
 
-// Grays
-$darkerGray: #222;
-$black: #000;
-$darkGray: #333;
-$gray: #666;
-$lightGray: #eee;
-$white: #fff
+
 
 // Font stacks
 $helvetica: Helvetica, Arial, sans-serif;
@@ -23,6 +17,13 @@ $helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
 $georgia: Georgia, serif;
 $CONFUSION: "Arial Black", Gadget, sans-serif;
 
+// Grays
+$darkerGray: #222;
+$black: #000;
+$darkGray: #333;
+$gray: #666;
+$lightGray: #eee;
+$white: #fff
 
 // Mobile breakpoints
 @mixin mobile {
