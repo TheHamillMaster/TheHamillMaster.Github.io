@@ -9,19 +9,19 @@ published: true
 <table>
   <tr>
     <td>Title:</td>
-    <td>My first attempts at publishing using GitHub  </td>
+    <td>Google Sheets</td>
   </tr>
   <tr>
     <td>Date:</td>
-    <td>23/09/16</td>
+    <td>30/09/16</td>
   </tr>
   <tr>
     <td>Starting point:</td>
-    <td>I had a slightly fancy github page</td>
+    <td>nothing</td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>Make a table that is slightly transparent</td>
+    <td>Learn how to use google sheets</td>
   </tr>
   <tr>
     <td>Did I reach my target? 
@@ -39,19 +39,19 @@ published: true
     <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td>Listened to mr Keen and I used w3schools to help me with CSS.</td>
+    <td>Listened to mr Tansley and I used my brain to help me with problems.</td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
   </tr>
   <tr>
-    <td>The first bit went well.</td>
+    <td>The first bit went well. But some things did not.</td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
-    <td>I will be ready.</td>
+    <td>I will try to remember everything- maybe take notes.</td>
   </tr>
 </table>
 
