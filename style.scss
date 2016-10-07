@@ -18,7 +18,7 @@ html {
 }
 
 body {
-	background: $GorillaBlue;
+	background: $GorillaOrange;
 	font-size: 25px; 
         color: $navy;
 	font-family: $CONFUSION;   
@@ -42,7 +42,7 @@ table, th, td {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-  color: $darkerGray;
+  color: $GorillaBlue;
   font-weight: bold;
 
   line-height: 1.7;
@@ -80,7 +80,7 @@ p {
 }
 
 a {
-  color: $blue;
+  color: $GorillaBlue;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
