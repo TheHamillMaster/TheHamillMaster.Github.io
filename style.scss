@@ -84,7 +84,7 @@ a {
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $blue;
+    color: $GorillaBlue;
   }
 }
 
@@ -213,7 +213,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $gray;
+  color: $navy;
   font-size: 16px;
 
   @include mobile {
@@ -236,14 +236,14 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $darkGray;
+    color: $GorillaBlue;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
 
     @include mobile {
       margin: 0 10px;
-      color: $blue;
+      color: $GorillaBlue;
     }
   }
 }
@@ -254,7 +254,7 @@ nav {
 
 .posts > .post {
   padding-bottom: 2em;
-  border-bottom: 1px solid $lightGray;
+  border-bottom: 1px solid $GorillaBlue;
 }
 
 .posts > .post:last-child {
@@ -265,9 +265,9 @@ nav {
 .post {
   blockquote {
     margin: 1.8em .8em;
-    border-left: 2px solid $gray;
+    border-left: 2px solid $GorillaBlue;
     padding: 0.1em 1em;
-    color: $gray;
+    color: $GorillaBlue;
     font-size: 22px;
     font-style: italic;
   }
@@ -286,7 +286,7 @@ nav {
   margin-top: 50px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
-  background-color: $lightGray;
+  background-color: $GorillaBlue;
 }
 
 footer {
