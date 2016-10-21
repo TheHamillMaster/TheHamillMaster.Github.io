@@ -60,6 +60,7 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   font-size: 30px;
+	text-decoration:bold;
   a {
     color: inherit;
   }
@@ -68,15 +69,18 @@ h1 {
 
 h2 {
   font-size: 24px;
+	text-decoration:bold;
 }
 
 h3 {
   font-size: 20px;
+	text-decoration:bold;
 }
 
 h4 {
   font-size: 18px;
   color: $gray;
+	text-decoration:bold;
 }
 
 p {
