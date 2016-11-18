@@ -20,7 +20,7 @@ html {
 body {
 	background-image:url("http://www.win10themes.com/wp-content/uploads/2016/04/Navy-Blue-Wallpapers.jpg");
 	background-attachment:fixed;
-	font-size: 25px; 
+	font-size: 16px; 
         color: $navy;
 	font-family: $CONFUSION;   
 }
@@ -62,7 +62,8 @@ h1 {
   font-size: 30px;
 	text-decoration:bold;
   a {
-    color: inherit;
+   font-size:30px;
+	  color:inherit
   }
 }
 
